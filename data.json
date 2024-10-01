@@ -1,0 +1,83 @@
+[{
+    "_id": {
+      "$oid": "66efa204e3fb9f09bc7c53d1"
+    },
+    "customer": {
+      "name": "HONEST PHARMACY -SAGRAMPURA",
+      "mobile": [
+        {
+          "type": "phone",
+          "value": "9773271998"
+        },
+        {
+          "type": "phone",
+          "value": "7600409554"
+        }
+      ],
+      "partyCode": "06LILIWEWG",
+      "user": {
+        "name": "RUDRI DISTRIBUTORS"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66efa339e3fb9f09bc7c5cf4"
+    },
+    "customer": {
+      "name": "HONEST PHARMACY (SAGRAMPURA)",
+      "mobile": [
+        {
+          "type": "phone",
+          "value": "9773271998"
+        },
+        {
+          "type": "phone",
+          "value": "9773271998"
+        }
+      ],
+      "partyCode": "2AJIQ0CK5V",
+      "user": {
+        "name": "alpha medical"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66efd1c3e3fb9f09bc7d9965"
+    },
+    "customer": {
+      "name": "HONEST PHARMACY SAGRAMPURA",
+      "mobile": [
+        {
+          "type": "phone",
+          "value": "9773271998"
+        }
+      ],
+      "partyCode": "63YDIEFPSD",
+      "user": {
+        "name": "SHREE HARI PHARMA "
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66efa204e3fb9f09bc7c53d3"
+    },
+    "customer": {
+      "name": "SALARY DHARMISTHA BEN",
+      "mobile": [
+        {
+          "type": "phone",
+          "value": "7600409554"
+        }
+      ],
+      "partyCode": "0BHN9MZ6XY",
+      "user": {
+        "name": "RUDRI DISTRIBUTORS"
+      }
+    }
+  }
+
+
+]
